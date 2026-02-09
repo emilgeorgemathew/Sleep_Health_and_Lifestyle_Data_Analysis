@@ -1,13 +1,3 @@
-# Sleep_Health_and_Lifestyle_Data_Analysis
-Basic ML project
-
-
-The previous versions covered the core components, but there are several technical details from the `Python_Project_QHEMA (1).ipynb` file that can be added to give the README more depth.
-
-Here is a revised version with specific details on **data cleaning**, **exploratory data analysis (EDA)**, and a more comprehensive look at **feature engineering** and **model metrics**.
-
----
-
 # Sleep, Health, and Lifestyle Data Analysis
 
 ## Project Overview
